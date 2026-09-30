@@ -1,2 +1,2 @@
 # AI-Student-Impact
-Exploring a dataset surrounging student academic success, mental health, and skill retention, as well as reported AI usage and dependency.
+An exploratory analysis of how reported generative AI usage and dependency relate to student GPA, mental health, burnout risk, and skill retention.
